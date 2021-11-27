@@ -1,0 +1,1 @@
+rootProject.name = "es.hol.gumsiz.ktor-chat"
